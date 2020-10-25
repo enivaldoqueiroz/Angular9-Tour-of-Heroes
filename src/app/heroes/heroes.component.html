@@ -1,20 +1,3 @@
-<!-- Exibir o nome em maiusculo 
-<h2>{{hero.name | uppercase}} Details</h2>
-<div><span>id: </span>{{hero.id}}</div>
-<div>
-    <label>name:
-      <input [(ngModel)]="hero.name" placeholder="name"/>
-    </label>
-</div>
-Listar heróis com *ngFor
-<h2>My Heroes</h2>
-<ul class="heroes">
-    <li *ngFor="let hero of heroes" (click)="onSelect(hero)">
-        <span class="badge">{{hero.id}}</span> {{hero.name}}
-    </li>
-</ul>
--->
-
 <h2>My Heroes</h2>
 <ul class="heroes">
   <li *ngFor="let hero of heroes"
@@ -24,4 +7,4 @@ Listar heróis com *ngFor
   </li>
 </ul>
 
-<app-hero-detail [hero]="selectedHero"></app-hero-detail>
+ <app-hero-detail [hero]="selectedHero"></app-hero-detail>
