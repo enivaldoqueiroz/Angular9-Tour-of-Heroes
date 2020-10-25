@@ -8,3 +8,19 @@
 ## Lista de heroes
 
 ![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/002_IMG.png)
+
+## Lista de heroes
+
+![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/003_IMG.png)
+
+## Lista de heroes
+
+![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/004_IMG.png)
+
+## Lista de heroes
+
+![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/005_IMG.png)
+
+## Lista de heroes
+
+![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/006_IMG.png)
