@@ -25,10 +25,9 @@
 
 ![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/006_IMG.png)
 
-## Lista de heroes
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/007_IMG.png)  |  ![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/008_IMG.png)
 
-![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/007_IMG.png)
 
-## Lista de heroes
 
-![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/008_IMG.png)
