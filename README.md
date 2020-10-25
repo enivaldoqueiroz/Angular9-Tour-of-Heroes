@@ -5,13 +5,8 @@
 
 ![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/001_IMG.png)
 
-## Lista de heroes
-
-![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/002_IMG.png)
-
-## Add hero
-
-![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/003_IMG.png)
+Lista de heroes | Add hero
+![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/002_IMG.png) | ![](https://github.com/enivaldoqueiroz/Angular9-Tour-of-Heroes/blob/main/src/imagens/003_IMG.png)
 
 ## Log de heroes selecionados
 
